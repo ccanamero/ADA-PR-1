@@ -1,0 +1,86 @@
+{
+    "dataset_path": "Datasets_modificados/portugues/por-grouped-and-cleanned.csv",
+    "modelo": "logistica",
+    "variables": [
+        {
+            "variable": "school_GP",
+            "coeficiente": -1.5678286276733953
+        },
+        {
+            "variable": "address_U",
+            "coeficiente": -0.992528670315244
+        },
+        {
+            "variable": "internet_yes",
+            "coeficiente": -0.6952412442403557
+        },
+        {
+            "variable": "studytime",
+            "coeficiente": -0.4789780702720706
+        },
+        {
+            "variable": "higher_yes",
+            "coeficiente": -0.42163302474347536
+        },
+        {
+            "variable": "reason_course",
+            "coeficiente": -0.39721051157102844
+        },
+        {
+            "variable": "sex_F",
+            "coeficiente": -0.2912884569259739
+        },
+        {
+            "variable": "Mjob_at_home",
+            "coeficiente": -0.2707691889874705
+        },
+        {
+            "variable": "Mjob_health",
+            "coeficiente": -0.20394094343068336
+        },
+        {
+            "variable": "Parents_edu",
+            "coeficiente": -0.15179256742835118
+        },
+        {
+            "variable": "reason_home",
+            "coeficiente": 0.015961889635483385
+        },
+        {
+            "variable": "traveltime",
+            "coeficiente": 0.05545181211142478
+        },
+        {
+            "variable": "freetime",
+            "coeficiente": 0.05820615736981648
+        },
+        {
+            "variable": "reason_reputation",
+            "coeficiente": 0.09915695425128368
+        },
+        {
+            "variable": "Alc",
+            "coeficiente": 0.09984183528374668
+        },
+        {
+            "variable": "reason_other",
+            "coeficiente": 0.27099768547908004
+        },
+        {
+            "variable": "Fjob_teacher",
+            "coeficiente": 0.34324167892598134
+        },
+        {
+            "variable": "age",
+            "coeficiente": 0.6759074938063259
+        },
+        {
+            "variable": "Mjob_teacher",
+            "coeficiente": 0.8714418502927518
+        },
+        {
+            "variable": "failures",
+            "coeficiente": 1.1627794574387862
+        }
+    ]
+}

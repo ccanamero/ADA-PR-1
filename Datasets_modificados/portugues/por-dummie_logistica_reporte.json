@@ -1,0 +1,178 @@
+{
+    "dataset_path": "Datasets_modificados/portugues/por-dummie.csv",
+    "modelo": "logistica",
+    "variables": [
+        {
+            "variable": "school_GP",
+            "coeficiente": -1.741171755897735
+        },
+        {
+            "variable": "absences",
+            "coeficiente": -1.453354696797333
+        },
+        {
+            "variable": "address_U",
+            "coeficiente": -0.8257529277820318
+        },
+        {
+            "variable": "Fedu",
+            "coeficiente": -0.6498283022907064
+        },
+        {
+            "variable": "reason_course",
+            "coeficiente": -0.5662246637858062
+        },
+        {
+            "variable": "Mjob_services",
+            "coeficiente": -0.47631602646384874
+        },
+        {
+            "variable": "famsup_yes",
+            "coeficiente": -0.4694622974243769
+        },
+        {
+            "variable": "famsize_LE3",
+            "coeficiente": -0.4635686408061161
+        },
+        {
+            "variable": "Fjob_other",
+            "coeficiente": -0.4066977089524808
+        },
+        {
+            "variable": "studytime",
+            "coeficiente": -0.38844161453511156
+        },
+        {
+            "variable": "Pstatus_T",
+            "coeficiente": -0.35863190843161274
+        },
+        {
+            "variable": "higher_yes",
+            "coeficiente": -0.3372035021873591
+        },
+        {
+            "variable": "famrel",
+            "coeficiente": -0.324245877848234
+        },
+        {
+            "variable": "guardian_father",
+            "coeficiente": -0.28017578555532313
+        },
+        {
+            "variable": "Mjob_health",
+            "coeficiente": -0.25994678833971174
+        },
+        {
+            "variable": "sex_F",
+            "coeficiente": -0.24872643155392388
+        },
+        {
+            "variable": "guardian_other",
+            "coeficiente": -0.24510103322601437
+        },
+        {
+            "variable": "goout",
+            "coeficiente": -0.16175391254411806
+        },
+        {
+            "variable": "Mjob_at_home",
+            "coeficiente": -0.14589038731737852
+        },
+        {
+            "variable": "paid_yes",
+            "coeficiente": -0.14328986994818782
+        },
+        {
+            "variable": "reason_reputation",
+            "coeficiente": -0.11249311592338339
+        },
+        {
+            "variable": "Fjob_health",
+            "coeficiente": -0.05633978075722429
+        },
+        {
+            "variable": "schoolsup_yes",
+            "coeficiente": -0.015402701384457549
+        },
+        {
+            "variable": "freetime",
+            "coeficiente": -0.013284842093990367
+        },
+        {
+            "variable": "Fjob_at_home",
+            "coeficiente": -0.006031788156361144
+        },
+        {
+            "variable": "internet_yes",
+            "coeficiente": 0.0039545611538401885
+        },
+        {
+            "variable": "reason_other",
+            "coeficiente": 0.005710015908527955
+        },
+        {
+            "variable": "Fjob_services",
+            "coeficiente": 0.05512239423095812
+        },
+        {
+            "variable": "health",
+            "coeficiente": 0.08593108190263521
+        },
+        {
+            "variable": "nursery_yes",
+            "coeficiente": 0.09564885562651011
+        },
+        {
+            "variable": "Walc",
+            "coeficiente": 0.15828453788954516
+        },
+        {
+            "variable": "Medu",
+            "coeficiente": 0.26447792292495687
+        },
+        {
+            "variable": "Mjob_other",
+            "coeficiente": 0.2741672185176761
+        },
+        {
+            "variable": "traveltime",
+            "coeficiente": 0.3071834333152596
+        },
+        {
+            "variable": "Fjob_teacher",
+            "coeficiente": 0.40969548678493833
+        },
+        {
+            "variable": "Dalc",
+            "coeficiente": 0.4501064355238395
+        },
+        {
+            "variable": "guardian_mother",
+            "coeficiente": 0.5210254219314349
+        },
+        {
+            "variable": "romantic_yes",
+            "coeficiente": 0.5745518826962334
+        },
+        {
+            "variable": "Mjob_teacher",
+            "coeficiente": 0.6037345867531373
+        },
+        {
+            "variable": "age",
+            "coeficiente": 0.6273324071895777
+        },
+        {
+            "variable": "reason_home",
+            "coeficiente": 0.6687563669511715
+        },
+        {
+            "variable": "activities_yes",
+            "coeficiente": 0.8487209624271894
+        },
+        {
+            "variable": "failures",
+            "coeficiente": 1.1348938616348367
+        }
+    ]
+}

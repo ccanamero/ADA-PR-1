@@ -1,0 +1,23 @@
+{
+    "age": {
+        "categorias_a_agrupar": [18, 19, 20, 21, 22],
+        "nuevo_nombre": 18,
+        "significado": "18+"
+    }, 
+    "failures": {
+        "categorias_a_agrupar": [1, 2, 3],
+        "nuevo_nombre": 1,
+        "significado": "+0"
+    },
+    "traveltime": {
+        "categorias_a_agrupar": [2, 3, 4],
+        "nuevo_nombre": 2,
+        "significado": ">15min"
+    },
+    "studytime": {
+        "categorias_a_agrupar": [3, 4],
+        "nuevo_nombre": 3,
+        "significado": ">5horas"
+    }
+           
+}

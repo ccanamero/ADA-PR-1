@@ -1,0 +1,42 @@
+{
+    "dataset_path": "Datasets_modificados/matematicas/mat-cleanned.csv",
+    "modelo": "logistica",
+    "variables": [
+        {
+            "variable": "paid_yes",
+            "coeficiente": -0.7241138212003896
+        },
+        {
+            "variable": "Parents_edu",
+            "coeficiente": -0.3769125792941359
+        },
+        {
+            "variable": "goout",
+            "coeficiente": 0.1511490114549324
+        },
+        {
+            "variable": "age",
+            "coeficiente": 0.17794992768664042
+        },
+        {
+            "variable": "traveltime",
+            "coeficiente": 0.22508155610084932
+        },
+        {
+            "variable": "romantic_yes",
+            "coeficiente": 0.2477259208784023
+        },
+        {
+            "variable": "address_U",
+            "coeficiente": 0.34782800157995797
+        },
+        {
+            "variable": "sex_F",
+            "coeficiente": 0.35907629918296563
+        },
+        {
+            "variable": "failures",
+            "coeficiente": 0.7545737434707925
+        }
+    ]
+}

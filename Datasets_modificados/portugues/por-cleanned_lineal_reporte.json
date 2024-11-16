@@ -1,0 +1,86 @@
+{
+    "dataset_path": "Datasets_modificados/portugues/por-cleanned.csv",
+    "modelo": "lineal",
+    "variables": [
+        {
+            "variable": "failures",
+            "coeficiente": -1.5874534021994
+        },
+        {
+            "variable": "reason_other",
+            "coeficiente": -0.4500621222965062
+        },
+        {
+            "variable": "Alc",
+            "coeficiente": -0.2977578167654256
+        },
+        {
+            "variable": "freetime",
+            "coeficiente": -0.0942576573643074
+        },
+        {
+            "variable": "reason_course",
+            "coeficiente": 0.0062857320035165035
+        },
+        {
+            "variable": "reason_home",
+            "coeficiente": 0.03056586791097271
+        },
+        {
+            "variable": "Mjob_at_home",
+            "coeficiente": 0.08553538298971469
+        },
+        {
+            "variable": "age",
+            "coeficiente": 0.15078464297170466
+        },
+        {
+            "variable": "Parents_edu",
+            "coeficiente": 0.22902310003084714
+        },
+        {
+            "variable": "traveltime",
+            "coeficiente": 0.23319619482294884
+        },
+        {
+            "variable": "internet_yes",
+            "coeficiente": 0.23953691646694253
+        },
+        {
+            "variable": "Mjob_teacher",
+            "coeficiente": 0.3319873575271869
+        },
+        {
+            "variable": "reason_reputation",
+            "coeficiente": 0.41321052238201683
+        },
+        {
+            "variable": "studytime",
+            "coeficiente": 0.42410012525435153
+        },
+        {
+            "variable": "sex_F",
+            "coeficiente": 0.6400856884202464
+        },
+        {
+            "variable": "address_U",
+            "coeficiente": 0.7093654301339659
+        },
+        {
+            "variable": "Mjob_health",
+            "coeficiente": 0.7421786053178452
+        },
+        {
+            "variable": "Fjob_teacher",
+            "coeficiente": 0.9310939993380254
+        },
+        {
+            "variable": "school_GP",
+            "coeficiente": 0.9830300915037289
+        },
+        {
+            "variable": "higher_yes",
+            "coeficiente": 1.65506900296099
+        }
+    ]
+}

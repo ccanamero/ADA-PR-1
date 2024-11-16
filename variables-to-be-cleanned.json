@@ -1,0 +1,72 @@
+{
+    "ambos": {
+        "Causalidad": [
+            "G1",
+            "G2",
+            "school_MS",
+            "schoolsup_no",
+            "address_R",
+            "sex_M",
+            "famsize_GT3",
+            "higher_no",
+            "paid_no",
+            "romantic_no",
+            "activities_no",
+            "schoolsup_no",
+            "nursery_no",
+            "internet_no", 
+            "famsup_no", 
+            "Pstatus_A"
+        ],
+        "Correlacion_con_G3_minima": [
+            "Fjob_health", 
+            "Fjob_other", 
+            "Fjob_services", 
+            "Fjob_at_home", 
+            "Pstatus_T", 
+            "absences", 
+            "activities_yes",
+            "famrel",
+            "famsize_LE3",
+            "famsup_yes", 
+            "guardian_mother",
+            "guardian_father",
+            "guardian_other",
+            "health",
+            "nursery_yes",
+            "schoolsup_yes",
+            "Mjob_other",
+            "Mjob_services"
+        ]
+    },
+    "matematicas": {
+        "Causalidad": [],
+        "Correlacion_con_G3_minima": [
+            "Walc",
+            "Dalc",
+            "freetime",
+            "school_GP",
+            "Fjob_teacher",
+            "internet_yes",
+            "Mjob_teacher",
+            "reason_course",
+            "reason_reputation",
+            "reason_home",
+            "reason_other",
+            "Mjob_health",
+            "Mjob_at_home",
+            "higher_yes",
+            "studytime"
+
+
+        ]
+    },
+    "portugues": {
+        "Causalidad": [],
+        "Correlacion_con_G3_minima": [
+            "romantic_yes",
+            "paid_yes",
+            "goout"
+        ]
+    }
+}
